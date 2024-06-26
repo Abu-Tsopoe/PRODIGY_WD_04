@@ -51,6 +51,7 @@ header, section{
 }
 .about h5{
     text-align: justify;
+    line-height: 35px;
 }
 .skills .card {
     width: 150px;
