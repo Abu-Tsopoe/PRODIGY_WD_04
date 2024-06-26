@@ -5,6 +5,11 @@
 .intro, h1{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+.intro .name{
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
 .about, .skills, .projects, .contact, .education, .certification{
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
@@ -43,7 +48,7 @@ header, section{
 .profile img{
     border-radius: 50%;
     border-style: solid;
-   
+    height: 280px;
 }
 .about h5{
     text-align: justify;
