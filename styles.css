@@ -47,7 +47,8 @@ header, section{
 }
 .profile img{
     border-style: solid;
-    height: 90%;
+    width: 210px;
+    height: 250px;
 }
 .about h5{
     text-align: justify;
